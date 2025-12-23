@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davor C.</h1>
-<h3 align="center">A frontend developer from Germany.</h3>
+<h3 align="center">A frontend developer from Ljubljana, Slovenia</h3>
 
 - 📫 How to reach me? **davor.culibrk@gmail.com**
 
